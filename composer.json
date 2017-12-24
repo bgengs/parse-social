@@ -1,0 +1,24 @@
+{
+  "name": "i-roc/parse-social-auth",
+  "license": "",
+  "description": "Social auth app for parse",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Rocky",
+      "email": "wpkpda@gmail.com"
+    }
+  ],
+  "require": {
+    "parse/php-sdk": "^1.4",
+    "league/oauth1-client": "^1.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    },
+    "files": [
+      "app/Helpers/helper.php"
+    ]
+  }
+}
