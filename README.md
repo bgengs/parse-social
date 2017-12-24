@@ -10,3 +10,6 @@ Social Login for Parse Platform PHP SDK
 6) Composer 
 
 Easily add Social Login Options to your Parse Server 
+
+
+Thank you @i-rocky
